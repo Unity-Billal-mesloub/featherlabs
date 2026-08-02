@@ -84,10 +84,3 @@ Feather Assets provides a versatile framework for managing digital assets, enabl
 - Anchor v0.29
 - Solana v1.18
 
-## Installation
-
-## Contributing
-
-## License
-
-## Contact
